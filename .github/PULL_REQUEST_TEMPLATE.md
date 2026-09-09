@@ -22,7 +22,7 @@
 
 ## Resource details
 
-**Name:**
-**URL:**
-**Category/Section:**
+**Name:**  
+**URL:**  
+**Category/Section:**  
 **Why it belongs:**
