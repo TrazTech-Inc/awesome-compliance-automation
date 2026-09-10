@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="Awesome Compliance Automation" width="100%">
+</p>
+
 # Awesome Compliance Automation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools, platforms, and resources for automating security compliance across SOC 2, ISO 27001, ISO 42001, HIPAA, PCI DSS, GDPR, PIPEDA, Quebec Law 25, and NIST CSF.
