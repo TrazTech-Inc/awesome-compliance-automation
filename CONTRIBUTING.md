@@ -30,7 +30,7 @@ Follow the existing column structure for that section.
 - One tool per pull request (makes review easier).
 - Add the tool to the appropriate section. If it fits multiple sections, add it to the most relevant one and mention framework coverage in the description.
 - Keep descriptions concise (one to two sentences).
-- Use an em dash (--) between the tool name/link and the description.
+- Use ` - ` (space hyphen space) between the tool name/link and the description.
 - Do not include referral links or affiliate codes.
 - Do not include tools that are primarily marketing pages without a real product.
 - Open-source tools should include a link to the GitHub/GitLab repository.

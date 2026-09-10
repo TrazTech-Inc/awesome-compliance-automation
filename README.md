@@ -9,9 +9,9 @@
 Maintained by [TrazTech](https://traztech.ca)  - a security & compliance consultancy based in Toronto that helps organizations achieve and maintain compliance across all major frameworks. Led by [Jacob Masse](https://github.com/jacob-masse), who holds 5 published CVEs including [CVE-2024-45163](https://nvd.nist.gov/vuln/detail/CVE-2024-45163).
 
 **Free tools from TrazTech:**
-- [Cloud Security Posture Check](https://traztech.ca/tools/cloud-security-posture-check)  - Assess your cloud security configuration for free
-- [SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist)  - Interactive checklist to gauge audit readiness
-- [TrazTech Workspace](https://traztech.ca)  - Free compliance tracking portal (alternative to Vanta/Drata)
+- [Cloud Security Posture Check](https://traztech.ca/tools/cloud-security-posture-check)  - Assess your cloud security configuration for free.
+- [SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist)  - Interactive checklist to gauge audit readiness.
+- [TrazTech Workspace](https://traztech.ca)  - Free compliance tracking portal (alternative to Vanta/Drata).
 
 ---
 
@@ -59,7 +59,7 @@ Governance, Risk, and Compliance platforms that centralize audit readiness, cont
 | [Scytale](https://scytale.ai) | SMB / Startups | SOC 2, ISO 27001, HIPAA, PCI DSS | Custom | Compliance-as-a-service model, concierge support |
 | [Laika](https://heylaika.com) | SMB to Mid-Market | SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR | Custom | Combines platform with compliance advisory |
 | [Anecdotes](https://anecdotes.ai) | Mid-Market to Enterprise | SOC 2, ISO 27001, SOX, NIST, custom | Custom | AI-powered evidence mapping across any framework |
-| [Tugboat Logic](https://tugboatlogic.com) | SMB | SOC 2, ISO 27001, PCI DSS | From ~$6k/yr | Policy library with auto-generation |
+| [Tugboat Logic](https://tugboatlogic.com) | SMB | SOC 2, ISO 27001, PCI DSS | From ~$6k/yr | Policy library with auto-generation (discontinued - acquired by OneTrust) |
 | [AuditBoard](https://auditboard.com) | Enterprise | SOX, SOC 2, ISO 27001, NIST, custom | Enterprise pricing | Connected risk platform, audit management |
 | [Hyperproof](https://hyperproof.io) | Mid-Market to Enterprise | SOC 2, ISO 27001, HIPAA, PCI DSS, NIST, FedRAMP | Custom | Hypersync evidence collection, cross-framework mapping |
 | [OneTrust](https://onetrust.com) | Enterprise | GDPR, CCPA, ISO 27001, NIST, 100+ regulations | Enterprise pricing | Privacy-first, largest regulatory intelligence database |
@@ -83,7 +83,7 @@ Tools for creating, distributing, tracking, and managing compliance policies and
 
 - [PowerDMS](https://www.powerdms.com)  - Policy and document management with version control, acknowledgment tracking, and automated distribution. Popular with government and healthcare.
 - [PolicyTree](https://policytree.com)  - Policy lifecycle management with approval workflows and employee attestation.
-- [Convercent (OneTrust Ethics)](https://convercent.com)  - Ethics and compliance management including policy distribution, hotline, and case management.
+- [Convercent (OneTrust Ethics)](https://convercent.com)  - Ethics and compliance management including policy distribution, hotline, and case management. (acquired by OneTrust)
 - [NAVEX One (PolicyTech)](https://www.navex.com/en-us/products/policytech-policy-management/)  - Enterprise policy management with automated workflows, gap analysis, and audit trails.
 - [ConvergePoint](https://www.convergepoint.com)  - SharePoint-based policy management with automated review cycles.
 - [ComplianceBridge](https://compliancebridge.com)  - Policy and procedure management with testing, acknowledgments, and reporting.
@@ -112,7 +112,7 @@ Automating evidence gathering is critical to reducing audit fatigue and keeping 
 - [Qualys Policy Compliance](https://www.qualys.com/apps/policy-compliance/)  - Automated configuration evidence gathering with CIS benchmark mapping.
 - [Orca Security](https://orca.security)  - Agentless cloud evidence collection across workloads, configurations, and identities.
 - [Wiz Evidence](https://wiz.io)  - Cloud-native evidence collection with contextual risk prioritization.
-- [Tugboat Logic](https://tugboatlogic.com)  - Automated evidence collection with AI-driven policy suggestions.
+- [Tugboat Logic](https://tugboatlogic.com)  - Automated evidence collection with AI-driven policy suggestions. (discontinued - acquired by OneTrust)
 
 ## Access Review Tools
 
@@ -183,7 +183,7 @@ Continuous vulnerability scanning and management is required by virtually every 
 - [CrowdStrike Falcon Spotlight](https://www.crowdstrike.com/products/exposure-management/falcon-spotlight-vulnerability-management/)  - Real-time vulnerability assessment using the Falcon agent (no scanning required).
 - [Microsoft Defender Vulnerability Management](https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-defender-vulnerability-management)  - Built-in vulnerability management for Microsoft 365 Defender customers.
 - [Arctic Wolf Managed Risk](https://arcticwolf.com/products/managed-risk/)  - Managed vulnerability and exposure management with concierge security team.
-- [Lacework](https://lacework.com)  - Cloud vulnerability scanning with anomaly-based threat detection.
+- [Lacework](https://lacework.com)  - Cloud vulnerability scanning with anomaly-based threat detection. (acquired by Fortinet)
 - [Trivy](https://trivy.dev)  - Open-source vulnerability scanner for containers, filesystems, git repos, and Kubernetes. ([GitHub](https://github.com/aquasecurity/trivy))
 - [Grype](https://github.com/anchore/grype)  - Open-source vulnerability scanner for container images and filesystems by Anchore.
 - [Nuclei](https://github.com/projectdiscovery/nuclei)  - Open-source vulnerability scanner driven by community-contributed templates.
@@ -195,7 +195,7 @@ Cloud Security Posture Management tools continuously monitor cloud configuration
 - [Wiz](https://wiz.io)  - Agentless CSPM with graph-based visualization of toxic risk combinations across AWS, Azure, GCP, and OCI.
 - [Orca Security](https://orca.security)  - Agentless cloud security platform with CSPM, CWPP, and CIEM in a single console.
 - [Prisma Cloud (Palo Alto)](https://www.paloaltonetworks.com/prisma/cloud)  - Comprehensive CNAPP with CSPM, CWP, code security, and CIEM modules.
-- [Lacework](https://lacework.com)  - Cloud security platform using behavioral analytics for CSPM and threat detection.
+- [Lacework](https://lacework.com)  - Cloud security platform using behavioral analytics for CSPM and threat detection. (acquired by Fortinet)
 - [Prowler](https://prowler.pro)  - Open-source CSPM tool for AWS, Azure, and GCP with 300+ security checks. ([GitHub](https://github.com/prowler-cloud/prowler))
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite)  - Open-source multi-cloud security auditing tool (AWS, Azure, GCP, Alibaba Cloud, Oracle Cloud).
 - [CloudSploit](https://github.com/aquasecurity/cloudsploit)  - Open-source cloud security scanning by Aqua Security, with 300+ checks across AWS, Azure, GCP, and Oracle.
@@ -204,7 +204,7 @@ Cloud Security Posture Management tools continuously monitor cloud configuration
 - [Azure Security Center (Defender for Cloud)](https://azure.microsoft.com/en-us/products/defender-for-cloud/)  - Native Azure CSPM with regulatory compliance dashboards for CIS, SOC 2, PCI DSS, and ISO 27001.
 - [Google Security Command Center](https://cloud.google.com/security-command-center)  - Native GCP security and CSPM service with vulnerability and threat finding aggregation.
 - [Aqua Security](https://aquasec.com)  - Cloud-native security platform with CSPM, container security, and runtime protection.
-- [Ermetic (Tenable)](https://ermetic.com)  - Cloud identity and access governance with CSPM for AWS, Azure, and GCP.
+- [Tenable Cloud Security (formerly Ermetic)](https://www.tenable.com/products/tenable-cloud-security)  - Cloud identity and access governance with CSPM for AWS, Azure, and GCP.
 - [Turbot (Steampipe Guardrails)](https://turbot.com)  - Real-time cloud governance with automated CSPM remediation.
 
 ## Penetration Testing Platforms
@@ -253,7 +253,7 @@ Trust centers allow you to proactively share your security posture, compliance c
 - [Whistic Trust Catalog](https://whistic.com)  - Security profile sharing network connecting vendors and buyers.
 - [Thoropass Trust Center](https://thoropass.com)  - Trust center integrated with the Thoropass audit platform.
 - [Sprinto Trust Center](https://sprinto.com)  - Public compliance dashboard showing real-time control health.
-- [Tugboat Logic Trust Center](https://tugboatlogic.com)  - Security portal for sharing compliance posture with stakeholders.
+- [Tugboat Logic Trust Center](https://tugboatlogic.com)  - Security portal for sharing compliance posture with stakeholders. (discontinued - acquired by OneTrust)
 
 ## Background Checks
 
@@ -290,6 +290,8 @@ Endpoint protection and mobile device management are core technical controls for
 
 ## By Framework
 
+> The framework sections below curate the most relevant tools from the functional categories above. Some tools appear in multiple framework sections where they provide specific support.
+
 ### SOC 2 Automation
 
 SOC 2 (Service Organization Control 2) is the most common compliance framework for SaaS companies. It covers Trust Services Criteria: Security, Availability, Processing Integrity, Confidentiality, and Privacy. For a quick readiness self-assessment, try TrazTech's free [SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist).
@@ -302,7 +304,7 @@ SOC 2 (Service Organization Control 2) is the most common compliance framework f
 - [Thoropass](https://thoropass.com)  - Combined platform + audit firm for a single SOC 2 engagement.
 - [Scytale](https://scytale.ai)  - SOC 2 compliance-as-a-service with concierge support.
 - [Laika](https://heylaika.com)  - SOC 2 platform with compliance advisory included.
-- [Tugboat Logic](https://tugboatlogic.com)  - SOC 2 with AI-powered policy generation.
+- [Tugboat Logic](https://tugboatlogic.com)  - SOC 2 with AI-powered policy generation. (discontinued - acquired by OneTrust)
 - [Strike Graph](https://strikegraph.com)  - Risk-first SOC 2 certification.
 - [TrazTech Workspace](https://traztech.ca)  - Free SOC 2 compliance tracking portal.
 
@@ -343,7 +345,7 @@ HIPAA (Health Insurance Portability and Accountability Act) governs the protecti
 - [Secureframe](https://secureframe.com)  - HIPAA compliance with automated administrative, physical, and technical safeguard monitoring.
 - [Sprinto](https://sprinto.com)  - HIPAA program management for healthcare startups and digital health companies.
 - [Compliancy Group](https://compliancy-group.com)  - HIPAA-focused compliance platform ("The Guard") with guided implementation.
-- [HIPAA One (Intraprise Health)](https://hipaaone.com)  - Automated HIPAA security risk assessment and compliance management.
+- [HIPAA One (Intraprise Health)](https://hipaaone.com)  - Automated HIPAA security risk assessment and compliance management. (acquired by Intraprise Health)
 - [Accountable HQ](https://accountablehq.com)  - HIPAA compliance for small healthcare practices with training and BAA management.
 - [MedTrainer](https://medtrainer.com)  - Healthcare compliance training with HIPAA, OSHA, and credentialing modules.
 - [TrazTech Workspace](https://traztech.ca)  - Free HIPAA compliance tracking portal.
