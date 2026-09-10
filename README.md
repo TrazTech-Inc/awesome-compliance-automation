@@ -51,10 +51,10 @@ Governance, Risk, and Compliance platforms that centralize audit readiness, cont
 
 | Platform | Target Size | Frameworks | Pricing | Key Strength |
 |----------|-------------|------------|---------|--------------|
-| [Vanta](https://vanta.com) | SMB to Mid-Market | SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR, SOX ITGC | From ~$10k/yr | Largest integration library (200+), continuous monitoring |
+| [Vanta](https://vanta.com) | SMB to Mid-Market | SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR, SOX ITGC | From ~$10k/yr | Largest integration library (375+), continuous monitoring |
 | [Drata](https://drata.com) | SMB to Mid-Market | SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR, SOX ITGC | From ~$10k/yr | Autopilot evidence collection, custom frameworks |
 | [Secureframe](https://secureframe.com) | SMB to Mid-Market | SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR, NIST | From ~$8k/yr | Fast time-to-audit, AI-assisted questionnaires |
-| [Sprinto](https://sprinto.com) | SMB / Startups | SOC 2, ISO 27001, HIPAA, GDPR | From ~$5k/yr | Budget-friendly, strong for startups |
+| [Sprinto](https://sprinto.com) | SMB / Startups | SOC 2, ISO 27001, HIPAA, GDPR | From ~$8k/yr | Budget-friendly, strong for startups |
 | [Thoropass](https://thoropass.com) | SMB to Mid-Market | SOC 2, ISO 27001, HIPAA, PCI DSS | Custom | End-to-end (platform + audit firm combined) |
 | [Scytale](https://scytale.ai) | SMB / Startups | SOC 2, ISO 27001, HIPAA, PCI DSS | Custom | Compliance-as-a-service model, concierge support |
 | [Laika](https://heylaika.com) | SMB to Mid-Market | SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR | Custom | Combines platform with compliance advisory |
@@ -64,15 +64,15 @@ Governance, Risk, and Compliance platforms that centralize audit readiness, cont
 | [Hyperproof](https://hyperproof.io) | Mid-Market to Enterprise | SOC 2, ISO 27001, HIPAA, PCI DSS, NIST, FedRAMP | Custom | Hypersync evidence collection, cross-framework mapping |
 | [OneTrust](https://onetrust.com) | Enterprise | GDPR, CCPA, ISO 27001, NIST, 100+ regulations | Enterprise pricing | Privacy-first, largest regulatory intelligence database |
 | [ServiceNow GRC](https://www.servicenow.com/products/governance-risk-and-compliance.html) | Enterprise | SOX, SOC 2, ISO 27001, NIST, custom | Enterprise pricing | Native ServiceNow integration, workflow automation |
-| [Archer (RSA)](https://www.archerirm.com) | Enterprise | SOX, SOC 2, NIST, ISO 27001, custom | Enterprise pricing | Mature IRM platform, highly customizable |
+| [Archer](https://www.archerirm.com) | Enterprise | SOX, SOC 2, NIST, ISO 27001, custom | Enterprise pricing | Mature IRM platform, highly customizable |
 | [LogicGate Risk Cloud](https://www.logicgate.com) | Mid-Market to Enterprise | SOC 2, ISO 27001, NIST, SOX, custom | Custom | No-code workflow builder, flexible data model |
 | [TrazTech Workspace](https://traztech.ca) | SMB / Startups | SOC 2, ISO 27001, HIPAA, PIPEDA, Law 25 | Free tier available | Free compliance tracking portal, Canadian privacy expertise |
 | [Carbide](https://carbidesecure.com) | SMB | SOC 2, ISO 27001, HIPAA, PCI DSS | From ~$8k/yr | Security awareness + GRC combined |
 | [Apptega](https://apptega.com) | SMB to Mid-Market | NIST, SOC 2, ISO 27001, CMMC, PCI DSS | Custom | Framework crosswalking, MSP-friendly |
 | [Ostendio](https://ostendio.com) | SMB to Mid-Market | SOC 2, ISO 27001, HIPAA, FedRAMP | Custom | MyVCM platform, collaborative audit prep |
-| [Strike Graph](https://strikegraph.com) | SMB | SOC 2, ISO 27001, HIPAA, PCI DSS | From ~$5k/yr | Risk-first approach, guided certification |
+| [Strike Graph](https://strikegraph.com) | SMB | SOC 2, ISO 27001, HIPAA, PCI DSS | From ~$8k/yr | Risk-first approach, guided certification |
 | [Scrut Automation](https://scrut.io) | SMB | SOC 2, ISO 27001, HIPAA, GDPR | Custom | Cloud-native, real-time risk monitoring |
-| [Resolver (Kyndryl)](https://www.resolver.com) | Enterprise | SOX, SOC 2, ISO 27001, NIST | Enterprise pricing | Integrated risk management |
+| [Resolver (Kroll)](https://www.resolver.com) | Enterprise | SOX, SOC 2, ISO 27001, NIST | Enterprise pricing | Integrated risk management |
 | [StandardFusion](https://standardfusion.com) | SMB to Mid-Market | SOC 2, ISO 27001, NIST, HIPAA | Custom | GRC built for InfoSec teams |
 | [Centraleyes](https://centraleyes.com) | Mid-Market | NIST, ISO 27001, SOC 2, GDPR, CIS | Custom | Automated risk quantification |
 | [Cypago](https://cypago.com) | SMB to Mid-Market | SOC 2, ISO 27001, GDPR, HIPAA | Custom | Cyber GRC automation, context-aware evidence |
@@ -98,10 +98,10 @@ Tools for creating, distributing, tracking, and managing compliance policies and
 
 Automating evidence gathering is critical to reducing audit fatigue and keeping your compliance posture current between audits. For best practices on freshness windows and automation strategies, see TrazTech's guide on [keeping evidence fresh](https://traztech.ca/blog/keeping-evidence-fresh).
 
-- [Vanta Autopilot](https://vanta.com)  - Automated evidence collection across 200+ integrations (AWS, Azure, GCP, GitHub, Okta, etc.).
+- [Vanta Autopilot](https://vanta.com)  - Automated evidence collection across 375+ integrations (AWS, Azure, GCP, GitHub, Okta, etc.).
 - [Drata Autopilot](https://drata.com)  - Continuous evidence collection with automated screenshots and API-based config pulls.
 - [Hyperproof Hypersync](https://hyperproof.io)  - Syncs evidence from cloud providers, SaaS tools, and ticketing systems on a schedule.
-- [Secureframe Evidence Collection](https://secureframe.com)  - Automated evidence gathering from 150+ integrations.
+- [Secureframe Evidence Collection](https://secureframe.com)  - Automated evidence gathering from 300+ integrations.
 - [Anecdotes.ai](https://anecdotes.ai)  - AI-powered evidence collection that maps artifacts to controls across frameworks.
 - [Sprinto Evidence Automation](https://sprinto.com)  - Continuous monitoring with automated evidence capture.
 - [Steampipe](https://steampipe.io)  - Open-source: query cloud APIs with SQL to generate compliance evidence. ([GitHub](https://github.com/turbot/steampipe))
@@ -129,7 +129,7 @@ Access reviews (user access reviews, entitlement reviews) are required by SOC 2,
 - [CrowdStrike Falcon Identity](https://www.crowdstrike.com/products/identity-protection/)  - Identity threat detection with access review capabilities.
 - [Okta Identity Governance](https://www.okta.com/products/identity-governance/)  - Access certifications, lifecycle management, and entitlement reviews within the Okta platform.
 - [OneLogin (by One Identity)](https://www.onelogin.com)  - Access management with periodic review campaigns.
-- [Delinea (Centrify)](https://delinea.com)  - Privileged access reviews with session monitoring and just-in-time elevation.
+- [Delinea (formed from Thycotic + Centrify merger)](https://delinea.com)  - Privileged access reviews with session monitoring and just-in-time elevation.
 - [StrongDM](https://strongdm.com)  - Infrastructure access management with audit logs and session replay for access review evidence.
 - [Teleport](https://goteleport.com)  - Infrastructure access with built-in access request workflows, session recording, and audit logging.
 
@@ -196,7 +196,7 @@ Cloud Security Posture Management tools continuously monitor cloud configuration
 - [Orca Security](https://orca.security)  - Agentless cloud security platform with CSPM, CWPP, and CIEM in a single console.
 - [Prisma Cloud (Palo Alto)](https://www.paloaltonetworks.com/prisma/cloud)  - Comprehensive CNAPP with CSPM, CWP, code security, and CIEM modules.
 - [Lacework](https://lacework.com)  - Cloud security platform using behavioral analytics for CSPM and threat detection. (acquired by Fortinet)
-- [Prowler](https://prowler.pro)  - Open-source CSPM tool for AWS, Azure, and GCP with 300+ security checks. ([GitHub](https://github.com/prowler-cloud/prowler))
+- [Prowler](https://prowler.pro)  - Open-source CSPM tool for AWS, Azure, and GCP with 1,000+ security checks across AWS, GCP, and Azure. ([GitHub](https://github.com/prowler-cloud/prowler))
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite)  - Open-source multi-cloud security auditing tool (AWS, Azure, GCP, Alibaba Cloud, Oracle Cloud).
 - [CloudSploit](https://github.com/aquasecurity/cloudsploit)  - Open-source cloud security scanning by Aqua Security, with 300+ checks across AWS, Azure, GCP, and Oracle.
 - [Steampipe](https://steampipe.io)  - Open-source: query any cloud API with SQL. Includes compliance benchmarks for CIS, SOC 2, HIPAA, and more. ([GitHub](https://github.com/turbot/steampipe))
@@ -273,7 +273,7 @@ Background checks and screening are required for compliance with HIPAA, PCI DSS,
 Endpoint protection and mobile device management are core technical controls for SOC 2, ISO 27001, and HIPAA. These tools enforce device compliance policies like disk encryption, screen lock, and OS patching.
 
 - [Kandji](https://kandji.io)  - Apple device management (MDM) with pre-built compliance templates for SOC 2, ISO 27001, CIS, and NIST.
-- [Fleet (formerly Kolide)](https://fleetdm.com)  - Open-source device management using osquery. Monitors macOS, Windows, Linux, and ChromeOS. ([GitHub](https://github.com/fleetdm/fleet))
+- [Fleet (originally created at Kolide)](https://fleetdm.com)  - Open-source device management using osquery. Monitors macOS, Windows, Linux, and ChromeOS. ([GitHub](https://github.com/fleetdm/fleet))
 - [Jamf](https://jamf.com)  - Apple enterprise management with security compliance enforcement, threat detection, and zero-trust workflows.
 - [Mosyle](https://mosyle.com)  - Apple device management with integrated security (Mosyle Fuse) for businesses and schools.
 - [Hexnode](https://hexnode.com)  - Cross-platform UEM (Apple, Android, Windows) with compliance policy enforcement and kiosk management.
@@ -297,7 +297,7 @@ Endpoint protection and mobile device management are core technical controls for
 SOC 2 (Service Organization Control 2) is the most common compliance framework for SaaS companies. It covers Trust Services Criteria: Security, Availability, Processing Integrity, Confidentiality, and Privacy. For a quick readiness self-assessment, try TrazTech's free [SOC 2 Readiness Checklist](https://traztech.ca/soc-2-readiness-checklist).
 
 **Dedicated SOC 2 platforms:**
-- [Vanta](https://vanta.com)  - Market leader for SOC 2 automation with 200+ integrations and continuous control monitoring.
+- [Vanta](https://vanta.com)  - Market leader for SOC 2 automation with 375+ integrations and continuous control monitoring.
 - [Drata](https://drata.com)  - End-to-end SOC 2 automation with autopilot evidence collection and audit-ready reports.
 - [Secureframe](https://secureframe.com)  - Fast SOC 2 readiness with AI-assisted gap analysis.
 - [Sprinto](https://sprinto.com)  - Budget-friendly SOC 2 platform for startups.
@@ -331,7 +331,7 @@ ISO 27001 is the international standard for information security management syst
 - [TrazTech Workspace](https://traztech.ca)  - Free ISO 27001 compliance tracking.
 
 **Key ISO 27001 resources:**
-- [ISO 27001:2022 Standard](https://www.iso.org/standard/27001)  - Official ISO standard (purchase required).
+- [ISO 27001:2022 Standard](https://www.iso.org/standard/82875.html)  - Official ISO standard (purchase required).
 - [ISO 27002:2022 Controls](https://www.iso.org/standard/75652.html)  - Detailed implementation guidance for Annex A controls.
 - [TrazTech Blog](https://traztech.ca/blog)  - 100+ articles covering ISO 27001 implementation and maintenance.
 
@@ -367,7 +367,7 @@ PCI DSS (Payment Card Industry Data Security Standard) applies to any organizati
 - [Qualys PCI Compliance](https://www.qualys.com/apps/pci-compliance/)  - Approved Scanning Vendor (ASV) with PCI DSS compliance scanning.
 - [SecurityMetrics](https://securitymetrics.com)  - PCI compliance, forensic investigations, and security assessments.
 - [Coalfire](https://coalfire.com)  - QSA firm with PCI DSS assessment and advisory services.
-- [Sysnet (Viking Cloud)](https://sysnet.com)  - PCI DSS compliance management for merchants and acquirers.
+- [VikingCloud (formerly Sysnet)](https://vikingcloud.com)  - PCI DSS compliance management for merchants and acquirers.
 
 **Key PCI DSS resources:**
 - [PCI SSC Document Library](https://docs-prv.pcisecuritystandards.org)  - Official PCI DSS standards, SAQs, and guidance documents.
@@ -383,7 +383,7 @@ The General Data Protection Regulation (GDPR) governs the processing of personal
 - [BigID](https://bigid.com)  - Data intelligence platform for data discovery, classification, and privacy compliance (GDPR, CCPA, LGPD).
 - [Osano](https://osano.com)  - Consent management and vendor privacy monitoring with data mapping.
 - [Securiti.ai](https://securiti.ai)  - Data command center with AI-driven data discovery, DSR automation, and consent management.
-- [WireWheel (acquired by PKWARE)](https://wirewheel.io)  - Privacy management with data mapping, DSAR automation, and assessment workflows.
+- [WireWheel (acquired by Osano)](https://wirewheel.io)  - Privacy management with data mapping, DSAR automation, and assessment workflows.
 - [Transcend](https://transcend.io)  - Privacy infrastructure for data mapping, consent, and automated DSR fulfillment across every system.
 - [Ketch](https://ketch.com)  - Programmatic privacy platform with consent management, DSR orchestration, and data mapping.
 - [Didomi](https://didomi.io)  - Consent management platform (CMP) with preference center and compliance analytics.
@@ -406,7 +406,7 @@ The NIST Cybersecurity Framework (CSF) provides voluntary guidance for managing 
 - [Apptega](https://apptega.com)  - NIST CSF framework mapping with crosswalking to other standards.
 - [Axio](https://axio.com)  - Cyber risk quantification platform built around NIST CSF and C2M2.
 - [LogicGate Risk Cloud](https://logicgate.com)  - NIST CSF implementation with custom workflows.
-- [Archer (RSA)](https://archerirm.com)  - Enterprise NIST CSF implementation with IRM capabilities.
+- [Archer](https://archerirm.com)  - Enterprise NIST CSF implementation with IRM capabilities.
 - [CyberStrong (CyberSaint)](https://cybersaint.io)  - Integrated risk management with NIST CSF, CIS Controls, and risk quantification.
 - [Tandem (by CUSO)](https://tandem.app)  - Information security and risk management with NIST CSF for financial institutions.
 
@@ -476,7 +476,7 @@ Open-source tools that can be used for compliance automation, security scanning,
 ### Infrastructure as Code (IaC) Security
 
 - [Checkov](https://github.com/bridgecrewio/checkov)  - Static analysis for IaC (Terraform, CloudFormation, Kubernetes, Helm, ARM) with 1,000+ built-in policies.
-- [tfsec](https://github.com/aquasecurity/tfsec)  - Terraform-specific static analysis security scanner. (Now part of Trivy)
+- [tfsec](https://github.com/aquasecurity/tfsec)  - Terraform-specific static analysis security scanner. (deprecated - migrated to Trivy)
 - [Terrascan](https://github.com/tenable/terrascan)  - Static code analysis for IaC with support for Terraform, Kubernetes, Helm, and Dockerfiles.
 - [KICS](https://github.com/Checkmarx/kics)  - Keeping Infrastructure as Code Secure  - finds security vulnerabilities, compliance issues, and misconfigurations in IaC.
 - [Regula](https://github.com/fugue/regula)  - Policy engine for IaC using OPA/Rego with pre-built rules for CIS benchmarks.
@@ -486,7 +486,7 @@ Open-source tools that can be used for compliance automation, security scanning,
 - [Trivy](https://github.com/aquasecurity/trivy)  - Comprehensive vulnerability scanner for containers, filesystems, git repos, Kubernetes, and IaC. Fast and easy to use.
 - [Grype](https://github.com/anchore/grype)  - Vulnerability scanner for container images and filesystems by Anchore.
 - [Nuclei](https://github.com/projectdiscovery/nuclei)  - Fast vulnerability scanner driven by community-contributed YAML templates.
-- [OpenVAS](https://github.com/greenbone/openvas-scanner)  - Open-source vulnerability scanner (Greenbone Community Edition) with 50,000+ NVTs.
+- [OpenVAS](https://github.com/greenbone/openvas-scanner)  - Open-source vulnerability scanner (Greenbone Community Edition) with 100,000+ NVTs.
 - [Clair](https://github.com/quay/clair)  - Static analysis for container vulnerabilities by Red Hat.
 - [Syft](https://github.com/anchore/syft)  - SBOM (Software Bill of Materials) generator for container images and filesystems.
 
@@ -587,7 +587,7 @@ Open-source tools that can be used for compliance automation, security scanning,
 ### Frameworks & Standards (Official Sources)
 
 - [AICPA SOC Suite](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2)  - Official SOC 2 Trust Services Criteria.
-- [ISO 27001:2022](https://www.iso.org/standard/27001)  - Information Security Management System standard.
+- [ISO 27001:2022](https://www.iso.org/standard/82875.html)  - Information Security Management System standard.
 - [ISO 42001:2023](https://www.iso.org/standard/81230.html)  - AI Management System standard.
 - [NIST CSF 2.0](https://www.nist.gov/cyberframework)  - Cybersecurity Framework version 2.0.
 - [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)  - Security and Privacy Controls.
