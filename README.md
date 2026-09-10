@@ -559,7 +559,7 @@ Open-source tools that can be used for compliance automation, security scanning,
 
 ### Newsletters & Blogs
 
-- [TrazTech Blog](https://traztech.ca/blog)  - 100+ articles on compliance automation, SOC 2, ISO 27001, PIPEDA, Law 25, AI governance, and more. Maintained by Jacob Masse (5 published CVEs).
+- [TrazTech Blog](https://traztech.ca/blog)  - 100+ articles on compliance automation, SOC 2, ISO 27001, PIPEDA, Law 25, AI governance, and more. Maintained by [Jacob Masse](https://jacobmasse.com) (5 published CVEs).
   - [Compliance Calendar  - What Actually Recurs](https://traztech.ca/blog/compliance-calendar-what-actually-recurs)
   - [Control Drift Between Audits](https://traztech.ca/blog/control-drift-between-audits)
   - [Keeping Evidence Fresh](https://traztech.ca/blog/keeping-evidence-fresh)
