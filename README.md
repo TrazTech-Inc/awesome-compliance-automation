@@ -76,6 +76,7 @@ Governance, Risk, and Compliance platforms that centralize audit readiness, cont
 | [StandardFusion](https://standardfusion.com) | SMB to Mid-Market | SOC 2, ISO 27001, NIST, HIPAA | Custom | GRC built for InfoSec teams |
 | [Centraleyes](https://centraleyes.com) | Mid-Market | NIST, ISO 27001, SOC 2, GDPR, CIS | Custom | Automated risk quantification |
 | [Cypago](https://cypago.com) | SMB to Mid-Market | SOC 2, ISO 27001, GDPR, HIPAA | Custom | Cyber GRC automation, context-aware evidence |
+| [Openlane](https://theopenlane.io) | SMB to Mid-Market | SOC 2, ISO 27001, HIPAA, NIST CSF, NIST 800-53, custom | $5,000/yr | Controls you define, evidence you can trace to its source, API and CLI for technical teams |
 
 ## Policy Management
 
@@ -93,6 +94,7 @@ Tools for creating, distributing, tracking, and managing compliance policies and
 - [Drata Policy Center](https://drata.com)  - Pre-built policy templates mapped to SOC 2, ISO 27001, and other frameworks.
 - [Vanta Policy Hub](https://vanta.com)  - Policy templates with employee acknowledgment tracking integrated into the Vanta GRC platform.
 - [Secureframe Policies](https://secureframe.com)  - Auto-generated policies mapped to frameworks with version control.
+- [Openlane Policies](https://theopenlane.io)  - Define the policies your team follows, connect them to the controls they support, and reuse them across frameworks. Includes templates, AI-assisted generation, and revision history; starter templates live in the [policy-hub](https://github.com/theopenlane/policy-hub).
 
 ## Evidence Collection & Automation
 
@@ -254,6 +256,7 @@ Trust centers allow you to proactively share your security posture, compliance c
 - [Thoropass Trust Center](https://thoropass.com)  - Trust center integrated with the Thoropass audit platform.
 - [Sprinto Trust Center](https://sprinto.com)  - Public compliance dashboard showing real-time control health.
 - [Tugboat Logic Trust Center](https://tugboatlogic.com)  - Security portal for sharing compliance posture with stakeholders. (discontinued - acquired by OneTrust)
+- [Openlane Trust Center](https://theopenlane.io)  - Separate Trust Center module ($3,000/yr) with public and NDA-gated documents, watermarked downloads, subprocessor list, framework badges, and a custom domain.
 
 ## Background Checks
 
@@ -307,6 +310,7 @@ SOC 2 (Service Organization Control 2) is the most common compliance framework f
 - [Tugboat Logic](https://tugboatlogic.com)  - SOC 2 with AI-powered policy generation. (discontinued - acquired by OneTrust)
 - [Strike Graph](https://strikegraph.com)  - Risk-first SOC 2 certification.
 - [TrazTech Workspace](https://traztech.ca)  - Free SOC 2 compliance tracking portal.
+- [Openlane](https://theopenlane.io)  - Define the controls your team performs, map them to the Trust Services Criteria, and give auditors a read-only role instead of an evidence export. Published pricing with unlimited frameworks and users.
 
 **Key SOC 2 resources:**
 - [TrazTech: Compliance Calendar  - What Actually Recurs](https://traztech.ca/blog/compliance-calendar-what-actually-recurs)  - Guide to recurring SOC 2 activities between audit periods.
@@ -329,6 +333,7 @@ ISO 27001 is the international standard for information security management syst
 - [AuditBoard](https://auditboard.com)  - Enterprise ISO 27001 audit management.
 - [Scrut Automation](https://scrut.io)  - ISO 27001 with cloud-native risk monitoring.
 - [TrazTech Workspace](https://traztech.ca)  - Free ISO 27001 compliance tracking.
+- [Openlane](https://theopenlane.io)  - Reuse the same controls across ISO 27001 Annex A and unlimited other frameworks, with evidence versioning and audit trails showing where every artifact came from.
 
 **Key ISO 27001 resources:**
 - [ISO 27001:2022 Standard](https://www.iso.org/standard/82875.html)  - Official ISO standard (purchase required).
@@ -349,6 +354,7 @@ HIPAA (Health Insurance Portability and Accountability Act) governs the protecti
 - [Accountable HQ](https://accountablehq.com)  - HIPAA compliance for small healthcare practices with training and BAA management.
 - [MedTrainer](https://medtrainer.com)  - Healthcare compliance training with HIPAA, OSHA, and credentialing modules.
 - [TrazTech Workspace](https://traztech.ca)  - Free HIPAA compliance tracking portal.
+- [Openlane](https://theopenlane.io)  - HIPAA Privacy and Security Rule requirements mapped to controls you define, with integration data landing as source records that you decide whether to promote to evidence. Unlimited frameworks, so HIPAA sits alongside SOC 2 and ISO 27001 at no extra cost.
 
 **Key HIPAA resources:**
 - [HHS HIPAA Security Rule Guidance](https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html)  - Official HHS guidance material.
@@ -462,6 +468,10 @@ ISO 42001 is the international standard for AI management systems (AIMS), publis
 ## Open-Source Tools
 
 Open-source tools that can be used for compliance automation, security scanning, and audit evidence generation. These are particularly valuable for startups and organizations that want to build compliance tooling without vendor lock-in.
+
+### Compliance Automation
+
+- [Openlane](https://github.com/theopenlane/core)  - Apache 2.0 security and compliance platform built around controls you define and evidence you can trace to its source.
 
 ### Cloud Security & CSPM
 
