@@ -103,6 +103,7 @@ Automating evidence gathering is critical to reducing audit fatigue and keeping 
 - [Hyperproof Hypersync](https://hyperproof.io)  - Syncs evidence from cloud providers, SaaS tools, and ticketing systems on a schedule.
 - [Secureframe Evidence Collection](https://secureframe.com)  - Automated evidence gathering from 300+ integrations.
 - [Anecdotes.ai](https://anecdotes.ai)  - AI-powered evidence collection that maps artifacts to controls across frameworks.
+- [Allowly Hiring Evidence](https://allowly.ai/solutions/hiring/)  - Runs approved structured hiring policies deterministically, records linked reviews and corrections, and exports decision packs with signed records for later review; it does not verify source data or establish legal compliance.
 - [Sprinto Evidence Automation](https://sprinto.com)  - Continuous monitoring with automated evidence capture.
 - [Steampipe](https://steampipe.io)  - Open-source: query cloud APIs with SQL to generate compliance evidence. ([GitHub](https://github.com/turbot/steampipe))
 - [Prowler](https://prowler.pro)  - Open-source: automated security assessments that produce compliance-ready evidence for AWS, Azure, and GCP. ([GitHub](https://github.com/prowler-cloud/prowler))
