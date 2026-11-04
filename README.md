@@ -306,6 +306,7 @@ SOC 2 (Service Organization Control 2) is the most common compliance framework f
 - [Laika](https://heylaika.com)  - SOC 2 platform with compliance advisory included.
 - [Tugboat Logic](https://tugboatlogic.com)  - SOC 2 with AI-powered policy generation. (discontinued - acquired by OneTrust)
 - [Strike Graph](https://strikegraph.com)  - Risk-first SOC 2 certification.
+- [Attestlane](https://attestlane.to)  - SOC 2 readiness for 1-50 person B2B software teams: AI-drafted policies for the team to review, a 39-item evidence checklist, and an auditor-ready package. Readiness only, not an audit.
 - [TrazTech Workspace](https://traztech.ca)  - Free SOC 2 compliance tracking portal.
 
 **Key SOC 2 resources:**
