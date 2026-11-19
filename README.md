@@ -93,6 +93,7 @@ Tools for creating, distributing, tracking, and managing compliance policies and
 - [Drata Policy Center](https://drata.com)  - Pre-built policy templates mapped to SOC 2, ISO 27001, and other frameworks.
 - [Vanta Policy Hub](https://vanta.com)  - Policy templates with employee acknowledgment tracking integrated into the Vanta GRC platform.
 - [Secureframe Policies](https://secureframe.com)  - Auto-generated policies mapped to frameworks with version control.
+- [SOC 2 Policy Templates](https://github.com/polaralabs/soc2-policy-templates)  - Free, openly licensed SOC 2 policy templates, registers and checklists in Word, PDF and Excel, each mapped to the Trust Services Criteria (CC BY 4.0).
 
 ## Evidence Collection & Automation
 
