@@ -28,7 +28,7 @@ Follow the existing column structure for that section.
 ### Rules
 
 - One tool per pull request (makes review easier).
-- Add the tool to the appropriate section. If it fits multiple sections, add it to the most relevant one and mention framework coverage in the description.
+- Add the tool to the appropriate section, in alphabetical order. If it fits multiple sections, add it to the most relevant one and mention framework coverage in the description.
 - Keep descriptions concise (one to two sentences).
 - Use ` - ` (space hyphen space) between the tool name/link and the description.
 - Do not include referral links or affiliate codes.
@@ -50,7 +50,7 @@ If you believe a new section is needed, open an issue first to discuss it before
 1. Fork the repository.
 2. Create a new branch (`git checkout -b add-tool-name`).
 3. Make your changes following the format guidelines above.
-4. Ensure the list is still alphabetically ordered within its section (where applicable).
+4. Add your entry in alphabetical order within its section, including table rows. Entries from TrazTech, the list maintainer, are pinned at the top of each section. Place your entry in alphabetical order among the entries below them. PRs that add an entry out of order, or above the pinned entries, will be asked to move it. An automated check runs on every PR and fails if the order is off; run `python3 .github/scripts/check_order.py --fix` to sort it for you.
 5. Submit a pull request using the PR template.
 6. Wait for review: we aim to review PRs within one week.
 
