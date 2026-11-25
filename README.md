@@ -114,6 +114,7 @@ Automating evidence gathering is critical to reducing audit fatigue and keeping 
 - [Tugboat Logic](https://tugboatlogic.com)  - Automated evidence collection with AI-driven policy suggestions. (discontinued - acquired by OneTrust)
 - [Vanta Autopilot](https://vanta.com)  - Automated evidence collection across 375+ integrations (AWS, Azure, GCP, GitHub, Okta, etc.).
 - [Wiz Evidence](https://wiz.io)  - Cloud-native evidence collection with contextual risk prioritization.
+- [ZeroTB](https://www.zerotb.ai)  - Keeps SOC 2, ISO 27001 and HIPAA controls working after the audit by checking GitHub, AWS, Google Workspace and Okta against the commitments in your report and policies each day. Each gap goes through a repair your team approves, usually a pull request, and is re-checked and kept as a signed record auditors can inspect in ZeroTB.
 
 ## Access Review Tools
 
